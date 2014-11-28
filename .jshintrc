@@ -1,0 +1,31 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "freeze": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "nonbsp": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "trailing": true,
+
+  "sub": true,
+
+  "globals": {
+    "__dirname": false,
+    "Buffer": false,
+    "console": false,
+    "describe": false,
+    "exports": true,
+    "it": false,
+    "module": false,
+    "require": false,
+    "process": false
+  }
+}

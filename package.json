@@ -1,0 +1,26 @@
+{
+  "name": "nos-sdk",
+  "description": "Node.js SDK for Netease Object Storage cloud service.",
+  "version": "0.1.0",
+  "author": "Su Su <s@warmsea.net>",
+  "keywords": [
+    "netease",
+    "object",
+    "storage",
+    "cloud"
+  ],
+  "repository": "warmsea/node-nos-sdk",
+  "license": "MIT",
+  "dependencies": {
+    "rfr": "^1.2.1",
+    "warmsea": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs": "^1.0.0",
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-mocha-test": "^0.12.4",
+    "mocha": "^2.0.1"
+  }
+}
