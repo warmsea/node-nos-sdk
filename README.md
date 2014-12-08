@@ -17,6 +17,10 @@ Installing a global rfr module is NOT encouraged.
 Change Log
 ----------
 
+### 2014-12-08 v0.2.0 ###
+
+* Read HTTP response body before callback.
+
 ### 2014-12-05 v0.1.3 ###
 
 * Add operations: InitiateMultipartUpload, uploadPart, completeMultipartUpload,
