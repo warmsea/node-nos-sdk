@@ -11,8 +11,6 @@ Install
 npm install nos-sdk
 ```
 
-Installing a global rfr module is NOT encouraged.
-
 
 Change Log
 ----------
