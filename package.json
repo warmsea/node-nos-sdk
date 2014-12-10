@@ -1,7 +1,7 @@
 {
   "name": "nos-sdk",
   "description": "Node.js SDK for Netease Object Storage cloud service.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Su Su <s@warmsea.net>",
   "keywords": [
     "netease",
