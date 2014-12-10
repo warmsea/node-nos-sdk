@@ -17,6 +17,10 @@ Installing a global rfr module is NOT encouraged.
 Change Log
 ----------
 
+### 2014-12-10 v0.2.1 ###
+
+* Bug fixes.
+
 ### 2014-12-08 v0.2.0 ###
 
 * Read HTTP response body before callback.
