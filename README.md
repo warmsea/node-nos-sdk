@@ -15,6 +15,10 @@ npm install nos-sdk
 Change Log
 ----------
 
+### 2014-12-11 v0.2.2 ###
+
+* Add input member `ContentType` to operation `InitiateMultipartUpload`.
+
 ### 2014-12-10 v0.2.1 ###
 
 * Bug fixes.
@@ -25,8 +29,8 @@ Change Log
 
 ### 2014-12-05 v0.1.3 ###
 
-* Add operations: InitiateMultipartUpload, uploadPart, completeMultipartUpload,
-  abortMultipartUpload, listParts.
+* Add operations: `InitiateMultipartUpload`, `uploadPart`,
+  `completeMultipartUpload`, `abortMultipartUpload`, `listParts`.
 
 ### 2014-12-02 v0.1.2 ###
 
@@ -38,4 +42,4 @@ Change Log
 
 ### 2014-11-30 v0.1.0 ###
 
-* Add operation: PutObject.
+* Add operation: `PutObject`.

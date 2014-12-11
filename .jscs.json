@@ -27,7 +27,7 @@
   "disallowTrailingComma": true,
   "disallowKeywordsOnNewLine": ["else"],
   "requireLineFeedAtFileEnd": true,
-  "maximumLineLength": 120,
+  "maximumLineLength": 80,
   "requireCapitalizedConstructors": true,
   "disallowNewlineBeforeBlockStatements": true,
   "validateLineBreaks": "LF",
@@ -39,5 +39,5 @@
   "validateJSDoc": {
     "requireParamTypes": true
   },
-  "safeContextKeyword": ["that"]
+  "safeContextKeyword": "that"
 }
