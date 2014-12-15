@@ -1,6 +1,6 @@
 /**
- * @copyright 2014 NetEase SDC
- * @author Su Su <gzsusu@corp.netease.com>
+ * @copyright 2014 Su Su
+ * @author Su Su <s@warmsea.net>
  */
 
 module.exports = function(grunt) {
