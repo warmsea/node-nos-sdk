@@ -1,7 +1,7 @@
 node-nos-sdk
 ============
 
-**node-nos-sdk** is a Node.js SDK for Netease Object Storage cloud service.
+**node-nos-sdk** is a Node.js SDK for NOS.
 
 
 Install
