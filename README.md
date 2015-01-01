@@ -15,6 +15,10 @@ npm install nos-sdk
 Change Log
 ----------
 
+### 2015-01-01 v0.2.3 ###
+
+* Make "rfr" bundled dependency. And HAPPY NEW YEAR!
+
 ### 2014-12-11 v0.2.2 ###
 
 * Add input member `ContentType` to operation `InitiateMultipartUpload`.
