@@ -1,7 +1,7 @@
 {
   "name": "nos-sdk",
   "description": "Node.js SDK for NOS.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Su Su <s@warmsea.net>",
   "keywords": [
     "object",
