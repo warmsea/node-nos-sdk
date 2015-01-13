@@ -15,6 +15,10 @@ npm install nos-sdk
 Change Log
 ----------
 
+### 2015-01-13 v0.2.4 ###
+
+* Add operation `deleteObject`.
+
 ### 2015-01-01 v0.2.3 ###
 
 * Make "rfr" bundled dependency. And HAPPY NEW YEAR!
